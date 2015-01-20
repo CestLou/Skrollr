@@ -1,0 +1,7 @@
+{ "name":"SKROLLR",
+	"scripts":{"start":"node app.js"},
+	"main":"app.js",
+	"dependencies":{
+		"express":"^4.1.2",
+		"path":"^0.4.9"}
+}
