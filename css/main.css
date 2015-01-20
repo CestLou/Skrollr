@@ -123,6 +123,13 @@ p { line-height: 1.33em; }
     width:100%;
 }
 
+.indicator {
+    color: #fff;
+    position: absolute;
+    top: 85%;
+    left: 50%;
+}
+
 /*.red {
     background-color:red ;
 }
